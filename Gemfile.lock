@@ -83,6 +83,7 @@ GEM
       responders
       warden (~> 1.2.3)
     diff-lcs (1.4.4)
+    dxruby (1.4.7)
     erubi (1.10.0)
     factory_bot (6.2.0)
       activesupport (>= 5.0.0)
@@ -254,6 +255,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   devise
+  dxruby
   factory_bot_rails
   faker
   image_processing (~> 1.2)
